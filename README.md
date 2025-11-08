@@ -1,5 +1,8 @@
 # 🍽️ Zomato Restaurant Analysis – Power BI Project
 
+![Dashboard Screenshot](./Screenshots/1.png)
+
+
 ## 📊 Overview
 This project presents a **comprehensive analysis of Zomato restaurant data** across multiple countries using **Microsoft Power BI**.  
 It explores various restaurant metrics such as **cuisine types, price ranges, ratings, votes, delivery options, and locations**, offering valuable insights into global dining trends.
@@ -27,6 +30,7 @@ The dataset includes restaurant data from the following countries:
 | UAE | United Kingdom | United States |
 
 ---
+![Zomato Dashboard](Screenshots/2.png)
 
 ## 🧮 Key Metrics & Insights
 
@@ -66,6 +70,7 @@ Most popular cuisines across all countries:
 📍 *Doha and Toronto have the highest number of listed restaurants.*
 
 ---
+![Dashboard Screenshot](./Screenshots/3.png)
 
 ### 🔹 4. Average Cost Analysis (in INR)
 - **Most Expensive Restaurant:** *Vine – The St. Regis* in **Qatar**, Avg. Cost ₹12,545.50  
@@ -142,8 +147,11 @@ The Power BI dashboard contains:
 
 ## 🧑‍💻 Author
 **Palak Katoch**  
-📧 [your.email@example.com]  
-🌐 [LinkedIn / GitHub Profile Link]  
+📧 [katoch.palak0123@example.com]  
+🌐 [https://linkedin.com/in/palakkatoch4/] 
+🌐 [https://github.com/palakdataworks]
 📊 *Data Analyst | Power BI Enthusiast | Data Visualization Expert*
 
---- 
+---
+  
+
