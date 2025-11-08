@@ -146,7 +146,4 @@ The Power BI dashboard contains:
 🌐 [LinkedIn / GitHub Profile Link]  
 📊 *Data Analyst | Power BI Enthusiast | Data Visualization Expert*
 
----
-
-## 📸 Dashboard Preview
-*(Add screenshots here once exported from Power BI)*  
+--- 
